@@ -8,6 +8,8 @@ Each task focuses on a specific concept or problem in JavaScript programming. Yo
 
 1. Clone this repository to your local machine using the following command:
 
+   `git clone <repository-url>`
+
 2. Navigate to the cloned repository and explore the `tasks` directory. You will find a collection of task folders, each containing a separate JavaScript file with the task description and starter code.
 
 3. Read the task description carefully and start coding! Modify the provided starter code to implement the required functionality or solve the problem.
